@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\bin\Debug\net6.0-windows\3ITAsk2Proc2.exe
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\bin\Debug\net6.0-windows\3ITAsk2Proc2.deps.json
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\bin\Debug\net6.0-windows\3ITAsk2Proc2.runtimeconfig.json
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\bin\Debug\net6.0-windows\3ITAsk2Proc2.dll
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\bin\Debug\net6.0-windows\3ITAsk2Proc2.pdb
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\_3ITAsk2Proc2.Form1.resources
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.AssemblyInfo.cs
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.dll
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\refint\3ITAsk2Proc2.dll
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.pdb
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\3ITAsk2Proc2.genruntimeconfig.cache
+C:\Users\verne\source\repos\3ITAsk2Proc2\3ITAsk2Proc2\obj\Debug\net6.0-windows\ref\3ITAsk2Proc2.dll

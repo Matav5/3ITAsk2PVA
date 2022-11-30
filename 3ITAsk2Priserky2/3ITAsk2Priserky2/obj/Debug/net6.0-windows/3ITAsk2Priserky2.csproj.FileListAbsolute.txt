@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\bin\Debug\net6.0-windows\3ITAsk2Priserky2.exe
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\bin\Debug\net6.0-windows\3ITAsk2Priserky2.deps.json
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\bin\Debug\net6.0-windows\3ITAsk2Priserky2.runtimeconfig.json
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\bin\Debug\net6.0-windows\3ITAsk2Priserky2.dll
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\bin\Debug\net6.0-windows\3ITAsk2Priserky2.pdb
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\_3ITAsk2Priserky2.Form1.resources
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.AssemblyInfo.cs
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.dll
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\refint\3ITAsk2Priserky2.dll
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.pdb
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\3ITAsk2Priserky2.genruntimeconfig.cache
+C:\Users\Matav\source\repos\3ITAsk2Priserky2\3ITAsk2Priserky2\obj\Debug\net6.0-windows\ref\3ITAsk2Priserky2.dll

@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\bin\Debug\net6.0-windows\3ITAsk2FridayFunky.exe
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\bin\Debug\net6.0-windows\3ITAsk2FridayFunky.deps.json
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\bin\Debug\net6.0-windows\3ITAsk2FridayFunky.runtimeconfig.json
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\bin\Debug\net6.0-windows\3ITAsk2FridayFunky.dll
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\bin\Debug\net6.0-windows\3ITAsk2FridayFunky.pdb
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\_3ITAsk2FridayFunky.Form1.resources
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.AssemblyInfo.cs
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.dll
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\refint\3ITAsk2FridayFunky.dll
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.pdb
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\3ITAsk2FridayFunky.genruntimeconfig.cache
+C:\Users\verne\source\repos\3ITAsk2FridayFunky\3ITAsk2FridayFunky\obj\Debug\net6.0-windows\ref\3ITAsk2FridayFunky.dll

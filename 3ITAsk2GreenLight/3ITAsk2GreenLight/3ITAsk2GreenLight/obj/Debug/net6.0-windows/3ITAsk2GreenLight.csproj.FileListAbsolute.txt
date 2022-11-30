@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\bin\Debug\net6.0-windows\3ITAsk2GreenLight.exe
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\bin\Debug\net6.0-windows\3ITAsk2GreenLight.deps.json
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\bin\Debug\net6.0-windows\3ITAsk2GreenLight.runtimeconfig.json
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\bin\Debug\net6.0-windows\3ITAsk2GreenLight.dll
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\bin\Debug\net6.0-windows\3ITAsk2GreenLight.pdb
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\_3ITAsk2GreenLight.Form1.resources
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.AssemblyInfo.cs
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.dll
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\refint\3ITAsk2GreenLight.dll
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.pdb
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\3ITAsk2GreenLight.genruntimeconfig.cache
+C:\Users\verne\source\repos\3ITAsk2GreenLight\3ITAsk2GreenLight\obj\Debug\net6.0-windows\ref\3ITAsk2GreenLight.dll

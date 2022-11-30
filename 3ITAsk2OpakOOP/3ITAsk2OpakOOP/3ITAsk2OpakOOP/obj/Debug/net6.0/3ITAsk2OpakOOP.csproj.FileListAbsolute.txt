@@ -1,0 +1,15 @@
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\bin\Debug\net6.0\3ITAsk2OpakOOP.exe
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\bin\Debug\net6.0\3ITAsk2OpakOOP.deps.json
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\bin\Debug\net6.0\3ITAsk2OpakOOP.runtimeconfig.json
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\bin\Debug\net6.0\3ITAsk2OpakOOP.dll
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\bin\Debug\net6.0\3ITAsk2OpakOOP.pdb
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.AssemblyInfo.cs
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.dll
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\refint\3ITAsk2OpakOOP.dll
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.pdb
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\3ITAsk2OpakOOP.genruntimeconfig.cache
+C:\Users\verne\source\repos\3ITAsk2OpakOOP\3ITAsk2OpakOOP\obj\Debug\net6.0\ref\3ITAsk2OpakOOP.dll
