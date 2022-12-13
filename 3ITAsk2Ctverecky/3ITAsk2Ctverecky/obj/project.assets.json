@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky.csproj",
+      "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky.csproj",
       "projectName": "3ITAsk2Ctverecky",
-      "projectPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky.csproj",
+      "projectPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky.csproj",
       "packagesPath": "C:\\Users\\Matav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky\\obj\\",
+      "outputPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2Ctverecky\\3ITAsk2Ctverecky\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matav\\AppData\\Roaming\\NuGet\\NuGet.Config",
