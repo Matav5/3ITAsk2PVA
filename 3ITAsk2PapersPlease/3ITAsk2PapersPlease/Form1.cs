@@ -17,7 +17,9 @@
 
         public Form1()
         {
+            StatniHraniceManager.Instance.PridaniZakazanychInformaci(jmena, prijmeni, statniObcanstvi);
             InitializeComponent();
+            label3.Text = StatniHraniceManager.Instance.VypisPravidel();
             VytvoritDoklad();
         }
 

@@ -43,5 +43,14 @@ namespace _3ITAsk2PapersPlease
             label9.Text = datumExpirace.ToString("d");
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            StatniHraniceManager.Instance.ZkontrolujDoklad(this, false);
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            StatniHraniceManager.Instance.ZkontrolujDoklad(this, true);
+        }
+
     }
 }
