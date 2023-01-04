@@ -1,6 +1,6 @@
 ﻿namespace _3ITAsk2PapersPlease
 {
-    partial class Form1
+    partial class Game
     {
         /// <summary>
         ///  Required designer variable.
@@ -65,7 +65,7 @@
             this.flowLayoutPanel1.Size = new System.Drawing.Size(526, 251);
             this.flowLayoutPanel1.TabIndex = 3;
             // 
-            // Form1
+            // Game
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -74,8 +74,9 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "Game";
             this.Text = "Papers Please";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Game_FormClosing);
             this.ResumeLayout(false);
 
         }

@@ -1,6 +1,6 @@
 ﻿namespace _3ITAsk2PapersPlease
 {
-    public partial class Form1 : Form
+    public partial class Game : Form
     {
         public List<string> jmena = new List<string>()
         {
@@ -14,12 +14,36 @@
         {
             "Spojené Království Chlumce a Přestanova", "Artozska", "Osvobozenecká Republika Ústeckého Kraje", "Polsko 💀"
         };
+        private int _pocetBodu = 0;
 
-        public Form1()
+        public int PocetBodu
+        {
+            get => _pocetBodu;
+            set
+            {
+                _pocetBodu = value;
+                UpdateBody();
+            }
+        }
+        public Game()
         {
             StatniHraniceManager.Instance.PridaniZakazanychInformaci(jmena, prijmeni, statniObcanstvi);
             InitializeComponent();
             label3.Text = StatniHraniceManager.Instance.VypisPravidel();
+            VytvoritDoklad();
+            StatniHraniceManager.Instance.onZkontrolovano += OnZkontrolovano;
+        }
+        private void UpdateBody()
+        {
+            label1.Text = "Počet bodů: " + PocetBodu;
+        }
+        private void OnZkontrolovano(Doklad doklad, bool jeSpravne)
+        {
+            if (jeSpravne)
+                PocetBodu++;
+            else
+                PocetBodu--;
+            flowLayoutPanel1.Controls.Remove(doklad);
             VytvoritDoklad();
         }
 
@@ -36,6 +60,11 @@
                 new DateTime(r.Next(2022,2028), r.Next(1, 13), r.Next(1, 32))
                 );
             flowLayoutPanel1.Controls.Add(doklad);
+        }
+
+        private void Game_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            StatniHraniceManager.Instance.onZkontrolovano -= OnZkontrolovano;
         }
     }
 }

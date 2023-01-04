@@ -23,7 +23,7 @@ namespace _3ITAsk2PapersPlease
         public List<string> seznamZakazanychZemi = new List<string>();
         public int maximalniVek = 55;
         public bool zakazanyPohlavek = false;
-
+        public event Action<Doklad, bool> onZkontrolovano;
         public StatniHraniceManager()
         {
 
@@ -36,6 +36,7 @@ namespace _3ITAsk2PapersPlease
         }
         public void PridatDoZakazanych(List<string> seznam, List<string> seznamZakazanych)
         {
+            seznamZakazanych.Clear();
             Random r = new Random();
             for (int i = 0; i < 2; i++)
             {
@@ -52,11 +53,15 @@ namespace _3ITAsk2PapersPlease
             if(KontrolaDokladuManagerem(dokladKeKontrole) == jePrijmut)
             {
                 MessageBox.Show("Udělal jste to správně. Sláva Stříbrníků");
+                onZkontrolovano?.Invoke(dokladKeKontrole, true);
+
             }
             else
             {
                 MessageBox.Show("Udělal jste to špatně. Stříbrniky se za vás stydí");
+                onZkontrolovano?.Invoke(dokladKeKontrole, false);
             }
+
         }
         private bool KontrolaDokladuManagerem(Doklad dokladKeKontrole)
         {

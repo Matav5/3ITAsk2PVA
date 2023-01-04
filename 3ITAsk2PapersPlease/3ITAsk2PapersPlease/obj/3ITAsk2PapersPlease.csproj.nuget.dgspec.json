@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matav\\source\\repos\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj": {}
+    "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matav\\source\\repos\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj": {
+    "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj",
+        "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj",
         "projectName": "3ITAsk2PapersPlease",
-        "projectPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj",
+        "projectPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease.csproj",
         "packagesPath": "C:\\Users\\Matav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\obj\\",
+        "outputPath": "C:\\Users\\Matav\\source\\repos\\3ITAsk2PVA\\3ITAsk2PapersPlease\\3ITAsk2PapersPlease\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matav\\AppData\\Roaming\\NuGet\\NuGet.Config",
